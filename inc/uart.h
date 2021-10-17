@@ -1,5 +1,5 @@
 //
-// COMP-GENG 421 - Tom Lupfer
+// COMP-GENG 421 - Justin Cavalli
 //
 // Interrupt-driven full-duplex UART module header file
 //

@@ -1,5 +1,5 @@
 //
-// COMP-GENG 421 - Tom Lupfer
+// COMP-GENG 421 - Jusitn Cavalli
 //
 // Etch A Sketch Emulator module header file
 //

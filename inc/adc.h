@@ -1,5 +1,5 @@
 //
-// COMP-GENG 421 - Tom Lupfer
+// COMP-GENG 421 - Justin Cavalli
 //
 // ADC (Analog-to-Digital Converter) module header file
 //

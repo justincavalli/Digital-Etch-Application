@@ -1,5 +1,5 @@
 //
-// COMP-GENG 421 - Tom Lupfer
+// COMP-GENG 421 - Justin Cavalli
 //
 // Compact embedded eprintf() module
 //
